@@ -1,0 +1,29 @@
+-Hardware
+cpu=> contador de programa, registros, ALU, unidad de control
+memoria principal
+sistemas de entrada y salida
+-cache>ram>swap>ded
+
+-Sistema operartivo
+Hardware>kernel>usuario
+
+-Tipos de lenguaje
+Compilados>Interpretados
+Intermediozzzzzz
+asemblyGOD
+
+-C/C++
+C nacio en 1970 y C++ en 1979 con el fin de orientarlo a objetos
+Tienen variables, operadores, condicionales, bucles, funciones y orientacion a objetos
+Siempre tiene que haber una funcion "main"
+namespace define grupos de rutinas, creo.
+
+Cling es un compilador por celdas desarrollado por el cern y mera belleza.
+
+Tarea: diferencia entre incremento prefijo y postfijo.
+
+
+
+
+
+
