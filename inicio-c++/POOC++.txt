@@ -1,0 +1,4 @@
+Las clases son plantillas para crear objetos
+las clases tiene atributos y metodos
+privado es privado
+Herencia

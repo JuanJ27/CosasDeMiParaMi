@@ -1,0 +1,7 @@
+se usa conda
+venv
+clases en python
+clase tipo humano
+metodos
+https://gitlab.com/udea3/cursofci-2023-1
+masas 
